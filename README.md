@@ -46,3 +46,5 @@ A short, sourced list for anyone researching ahrefs pricing before subscribing. 
 ## Contributing
 
 Open a pull request with a link, one line on why it belongs, and the page it is referenced from; no plan prices in the list text.
+
+_Last reviewed: 2026-09-22_
